@@ -5,3 +5,7 @@ evaluate
 datasets
 transformers
 albumentations
+click
+appdirs
+protobuf
+pandas
