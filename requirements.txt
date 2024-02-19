@@ -9,3 +9,4 @@ click
 appdirs
 protobuf
 pandas
+scikit-learn
